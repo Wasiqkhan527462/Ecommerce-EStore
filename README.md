@@ -1,4 +1,3 @@
-```markdown
 # Estore
 
 This is an eCommerce website developed using the **MERN** stack (MongoDB, Express.js, React, Node.js). The application includes a user-friendly front end for shopping and an admin dashboard for managing products and orders. It also utilizes Cloudinary for image storage.
@@ -28,7 +27,7 @@ To run this project locally, follow the steps below:
 - Node.js
 - MongoDB
 - Cloudinary account
-```
+
 
 ## Screen Shots
 
